@@ -1,5 +1,7 @@
 # cyclescript
-merging FEP outputs from NAMD at different time points and calculating free energy cost of individual and merged sets
+merging FEP outputs from NAMD at different time points and calculating free energy cost of mutations for individual and merged sets
+
+______________________
 
 This repository contains all FEP files for the manuscript entitled, 
 'A thermodynamic cycle to predict the competitive inhibition outcomes of an evolving enzyme'
